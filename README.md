@@ -1,5 +1,10 @@
 # Статусы:
 - - -
+## 11 декабря:
+####  - *Посмотрел курс Udemy "Intro to Git by Ian Schoonover" до раздела 3.*
+####  - *Посмотрел курс Udemy "Git Started with GitHub by Jason Taylor" до конца.*
+####  - *Выполнено 8 задач на LeetCode.*
+- - -
 ## 10 декабря:
 ####  - *Посмотрел курс Udemy "Git Started with GitHub by Jason Taylor" до раздела 3.*
 ####  - *Выполнено 8 задач на LeetCode.*
