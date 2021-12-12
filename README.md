@@ -1,5 +1,10 @@
 # Статусы:
 - - -
+## 12 декабря:
+####  - *Посмотрел курс Udemy "Git: Become an Expert in Git & GitHub in 4 Hours by Jad Khalili" до раздела 1.*
+####  - *Посмотрел курс Udemy "Intro to Git by Ian Schoonover" до конца.*
+####  - *Выполнено 6 задач на LeetCode.*
+- - -
 ## 11 декабря:
 ####  - *Посмотрел курс Udemy "Intro to Git by Ian Schoonover" до раздела 3.*
 ####  - *Посмотрел курс Udemy "Git Started with GitHub by Jason Taylor" до конца.*
