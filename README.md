@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 15 декабря:
+####  - *Посмотрел курс Udemy "Git: Become an Expert in Git & GitHub in 4 Hours by Jad Khalili" до раздела 7.*
+####  - *Выполнено 6 задач на LeetCode.*
+- - -
 ## 14 декабря:
 ####  - *Посмотрел курс Udemy "Git: Become an Expert in Git & GitHub in 4 Hours by Jad Khalili" до раздела 4.*
 ####  - *Выполнено 8 задач на LeetCode.*
