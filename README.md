@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 20 декабря:
+####  - *Посмотрел 3/5 [видеокурса](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) Ильи Кантора по Git.*
+####  - *Выполнено 6 задач на LeetCode.*
+- - -
 ## 19 декабря:
 ####  - *Посмотрел 1/5 [видеокурса](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) Ильи Кантора по Git.*
 ####  - *Изучил более детально принцип действия git команд (rebase, merge, cherry-pick) в различных источниках.*
