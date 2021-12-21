@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 21 декабря:
+####  - *Посмотрел до конца [видеокурс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) Ильи Кантора по Git.*
+####  - *Выполнено 6 задач на LeetCode.*
+- - -
 ## 20 декабря:
 ####  - *Посмотрел 3/5 [видеокурса](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) Ильи Кантора по Git.*
 ####  - *Выполнено 6 задач на LeetCode.*
