@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 22 декабря:
+####  - *Изучил рабочие процессы Git-flow и GitHub-flow в различных источниках.*
+####  - *Выполнено 5 задач на LeetCode.*
+- - -
 ## 21 декабря:
 ####  - *Посмотрел до конца [видеокурс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) Ильи Кантора по Git.*
 ####  - *Выполнено 6 задач на LeetCode.*
