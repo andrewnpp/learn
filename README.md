@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 29 декабря:
+####  - *Изучил 2/3 [видеокурса](https://www.youtube.com/watch?v=bTiAfLbmsnY&list=LL&index=1) Yauhen Kavalchuk "JavaScript Паттерны. Полный курс (22 паттерна в 1 видео)".*
+####  - *Выполнено 5 задач на LeetCode.*
+- - -
 ## 28 декабря:
 ####  - *Изучил 1/3 [видеокурса](https://www.youtube.com/watch?v=bTiAfLbmsnY&list=LL&index=1) Yauhen Kavalchuk "JavaScript Паттерны. Полный курс (22 паттерна в 1 видео)".*
 ####  - *Выполнено 5 задач на LeetCode.*
