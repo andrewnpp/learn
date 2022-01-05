@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 5 января:
+####  - *Изучил 3/4 руководства [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/).*
+####  - *Выполнено 4 задачи на LeetCode.*
+- - -
 ## 4 января:
 ####  - *Изучил 2/4 руководства [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/).*
 ####  - *Выполнено 4 задачи на LeetCode.*
