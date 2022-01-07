@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 7 января:
+####  - *Посмотрел курс Udemy "Docker Essentials by Cerulean Canvas" до раздела 2.*
+####  - *Выполнено 4 задачи на LeetCode.*
+- - -
 ## 6 января:
 ####  - *Изучил до конца руководство [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/).*
 ####  - *Выполнено 4 задачи на LeetCode.*
