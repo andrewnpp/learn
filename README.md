@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 11 января:
+####  - *Посмотрел курс Udemy "Docker Essentials by Cerulean Canvas" до раздела 6.*
+####  - *Выполнено 2 задачи на LeetCode.*
+- - -
 ## 10 января:
 ####  - *Посмотрел курс Udemy "Docker Essentials by Cerulean Canvas" до раздела 5.*
 ####  - *Выполнено 4 задачи на LeetCode.*
