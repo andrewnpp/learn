@@ -1,5 +1,8 @@
 # Статусы:
 - - -
+## 13 января:
+####  - *Посмотрел курс Udemy "Docker Essentials by Cerulean Canvas" до раздела 8.*
+- - -
 ## 12 января:
 ####  - *Посмотрел курс Udemy "Docker Essentials by Cerulean Canvas" до раздела 7.*
 - - -
