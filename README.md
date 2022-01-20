@@ -1,5 +1,8 @@
 # Статусы:
 - - -
+## 20 января:
+####  - *Проработал 2/3 Stage 1 секции Getting Started Walk-through for Developers интерактивного пособия [Play with Docker classroom](https://training.play-with-docker.com/).*
+- - -
 ## 19 января:
 ####  - *Ознакомился с Docker Desktop.*
 ####  - *Проработал полностью официальное пособие Docker: Getting Started.*
