@@ -1,5 +1,9 @@
 # Статусы:
 - - -
+## 21 января:
+####  - *Проработал до конца Stage 1 секции Getting Started Walk-through for Developers интерактивного пособия [Play with Docker classroom](https://training.play-with-docker.com/) и ознакомился с содержанием остальных.*
+
+- - -
 ## 20 января:
 ####  - *Проработал 2/3 Stage 1 секции Getting Started Walk-through for Developers интерактивного пособия [Play with Docker classroom](https://training.play-with-docker.com/).*
 - - -
