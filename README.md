@@ -1,5 +1,8 @@
 # Статусы:
 - - -
+## 25 января:
+####  - *Закончил 4/5 обучающих [интерактивных сценариев](https://www.katacoda.com/courses/docker) Katacoda по Docker.*
+- - -
 ## 24 января:
 ####  - *Закончил 3/5 обучающих [интерактивных сценариев](https://www.katacoda.com/courses/docker) Katacoda по Docker.*
 - - -
